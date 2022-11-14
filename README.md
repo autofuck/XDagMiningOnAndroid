@@ -1,7 +1,8 @@
 # XDag Ming on Android Device,High Performance!
 
 ## APK Download:
-Latest Version: [xdag_miner_android_1.3.0.apk](https://github.com/autofuck/XDagMiningOnAndroid/blob/master/xdag_miner_android_1.3.0.apk)
+[Release Page](https://github.com/autofuck/XDagMiningOnAndroid/releases)
+ 
 
 
 ## How to use:
